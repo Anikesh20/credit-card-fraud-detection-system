@@ -20,6 +20,7 @@ The dataset contains credit card transactions, with each transaction labeled as 
 - `city`: The city where the transaction occurred
 - `trans_date_trans_time`: Transaction date and time
 - `is_fraud`: Target label indicating whether the transaction is fraudulent (1) or not (0)
+- Dataset link https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 ## Models Used
 
