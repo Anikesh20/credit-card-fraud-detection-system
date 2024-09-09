@@ -12,7 +12,7 @@ This project aims to build a machine learning model to detect fraudulent credit 
 
 ## Datasets
 
-The dataset contains credit card transactions, with each transaction labeled as either fraud (`is_fraud=1`) or not fraud (`is_fraud=0`). The dataset is split into training and test sets, with features such as transaction amount (`amt`), merchant name, and city.
+The dataset contains credit card transactions, with each transaction labeled as either fraud (`is_fraud=0`) or not fraud (`is_fraud=1`). The dataset is split into training and test sets, with features such as transaction amount (`amt`), merchant name, and city.
 
 ### Dataset Columns:
 - `amt`: Transaction amount
